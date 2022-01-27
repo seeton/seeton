@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @seeton
-- 👀 I’m interested in Competitive programming
-- 🌱 I’m currently learning C++&Python
-- 📫 How to reach me seetons☆outlook.jp
+https://atcoder.jp/users/seeton
+atcoder/茶色
+
+競技プログラミング
+ゲーム制作
+etc...
 
 <!---
 seeton/seeton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
