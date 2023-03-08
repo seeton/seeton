@@ -1,5 +1,5 @@
 https://atcoder.jp/users/seeton
-atcoder/茶色
+atcoder/緑色
 
 競技プログラミング
 ゲーム制作
