@@ -1,7 +1,7 @@
 # seeton
 
-ゲーム制作・Web 体験・実験的なツール開発を中心に、何かしらを作っています。  
-最近は **Godot 4 向けの AI world rule engine**、**会話ベースのブラウザゲーム**、**暗号アーカイブの研究プロトタイプ** を中心に公開しています。
+ゲーム制作・Web 体験・実験的なツール開発に加え、再現可能な研究プロトタイプにも取り組んでいます。
+最近は **ヴォイニッチ手稿の多層構造を検証する公開研究**、**Godot 4 向けの AI world rule engine**、**会話ベースのブラウザゲーム** を公開しています。
 
 ## 興味のあること
 
@@ -9,13 +9,14 @@
 - ゲーム制作
 - ブラウザやゲームエンジン上のインタラクティブな体験づくり
 - AI を使ったルール設計・会話体験
-- 暗号 / CLI / 研究寄りのプロトタイプ
+- 暗号 / 構造解析 / CLI / 研究寄りのプロトタイプ
 
 ## 公開リポジトリ一覧
 
 | 分類 | リポジトリ | 概要 |
 | --- | --- | --- |
 | プロフィール | [seeton](https://github.com/seeton/seeton) | GitHub プロフィール用の設定と自己紹介を管理するリポジトリです。 |
+| 研究 / 文字資料 | [Voynich-public](https://github.com/seeton/Voynich-public) | ヴォイニッチ手稿の内部構造と生成制約を、反証可能な統計検定・物理ページ幾何・ホールドアウト予測・実行可能な生成モデルで検証する公開研究です。解読を主張するものではありません。 |
 | ゲーム / AI / Godot | [ai-world-rule-engine](https://github.com/seeton/ai-world-rule-engine) | Godot 4 向けに、再利用可能なルールパッケージとして扱える AI world rule engine を作っているリポジトリです。 |
 | ゲーム / Web | [AIwolf](https://github.com/seeton/AIwolf) | MBTI バイアスのある AI に紛れた人間を会話から見抜く、iPhone 向けブラウザゲームのリポジトリです。 |
 | 研究 / 暗号 | [BottleShipCrypt](https://github.com/seeton/BottleShipCrypt) | 破壊的な pruning を経た後だけ残存部分を復号できる、sealed archive の研究プロトタイプです。 |
