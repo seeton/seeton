@@ -31,7 +31,10 @@
 
 ## Activity
 
-![seeton's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seeton&theme=github-compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:default/seeton">
+  <img alt="seeton's GitHub contribution calendar" src="https://ghchart.xqsit94.in/seeton">
+</picture>
 
 ## Links
 
