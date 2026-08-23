@@ -29,6 +29,10 @@
 | 学習 / Python | [python](https://github.com/seeton/python) | Python の基礎文法やデータ構造、小さなスクリプトを試す学習用リポジトリです。 |
 | ゲーム / C# | [Times_Over_Dose](https://github.com/seeton/Times_Over_Dose) | Unity / C# でゲーム内システムや基礎コードを試作していたリポジトリです。 |
 
+## Activity
+
+![seeton's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seeton&theme=github-compact)
+
 ## Links
 
 - GitHub: [@seeton](https://github.com/seeton)
